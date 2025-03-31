@@ -1,3 +1,3 @@
-# 🧠 AI-101 Compulsory Projects  
+# Compulsory Projects  
 
 ## 📂 **Project Files & Descriptions**  
