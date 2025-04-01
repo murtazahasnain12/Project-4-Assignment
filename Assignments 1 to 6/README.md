@@ -6,5 +6,4 @@
 
 ### [02_Guess_The_Number_Game](https://colab.research.google.com/drive/1BWwmLqcOz6DDW733EfxFI9INwuoOFQyJ)
 
-### [03_Rock, paper, scissors]
-https://colab.research.google.com/drive/1_5YOltoiafxWREkeH9yifyxhhNDL63Ec
+### [03_Rock, paper, scissors](https://colab.research.google.com/drive/1_5YOltoiafxWREkeH9yifyxhhNDL63Ec)
