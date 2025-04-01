@@ -1,6 +1,6 @@
 # 💡 Compulsory Projects  
 
-## 📂 **Class Project Colab Links** 🔗
+## 📂 **Class Project Colab Links & Description** 🔗
 
 ### [01_Mad_Libs](https://colab.research.google.com/drive/1v5JF892a6MZNWJ3TdGSEkKhHX-8afuWA) 
 👉 This code creates a **Mad Libs** game where the user inputs words (an adjective, two verbs, and a famous person's name). These words are inserted into a predefined sentence using an f-string, and the final sentence is printed. 🚀
