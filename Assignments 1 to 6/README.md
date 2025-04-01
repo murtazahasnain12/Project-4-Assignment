@@ -1,4 +1,4 @@
-# Compulsory Projects  
+# 💡 Compulsory Projects  
 
 ## 📂 **Class Project Colab Links** 🔗
 
