@@ -6,7 +6,7 @@
 👉 This code creates a **Mad Libs** game where the user inputs words (an adjective, two verbs, and a famous person's name). These words are inserted into a predefined sentence using an f-string, and the final sentence is printed. 🚀
 
 ### [02_Guess_The_Number_Game(Computer)](https://colab.research.google.com/drive/1uIRNvh6aawDEHIrlnPVqryv_ynx0zahJ)
-
+👉 This code allows the computer to guess a number the user is thinking of within a given range. The user provides feedback (`[H]` for too high, `[L]` for too low, `[C]` for correct), and the computer adjusts its guesses accordingly until it finds the correct number.
 ### [03_Guess_The_Number_Game(User)](https://colab.research.google.com/drive/1NbBZ9nY4nQoanAMl9Tw42dfGIZTvMnPb)
 
 ### [04_Rock, paper, scissors](https://colab.research.google.com/drive/1_5YOltoiafxWREkeH9yifyxhhNDL63Ec)
