@@ -29,5 +29,12 @@
 5. **End of Game**: Displays a success or failure message depending on whether the word was guessed correctly within the allowed attempts.
    
 ### [06_Countdown_Timer_Python](https://colab.research.google.com/drive/1N4f6yRY2l3wKgYdwGyXGyKCudsfxF2hM#scrollTo=FBpZrH2PI2TW&uniqifier=10)
+👉  In short, this code defines a countdown timer that:
 
+1. Prompts the user to input a countdown time in seconds.
+2. Displays the remaining time in a refreshed output every second.
+3. When the time reaches zero, it shows a "Time's Up!" message.
+4. Handles invalid inputs (e.g., non-numeric values) by showing an error message.
+
+It uses `time.sleep()` to create the delay and `clear_output()` to update the display in real-time.
 ### [07_Password_Generator_Python](https://colab.research.google.com/drive/1rsjFBcsXbB4_KbNaQMJWt5_J0SSnXrWA)
